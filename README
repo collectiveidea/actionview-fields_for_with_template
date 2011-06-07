@@ -5,8 +5,6 @@ Adds the following view helper for work with nested attributes:
 
   fields_for_with_template
 
-This requires NumericSequence, available at github.com/mhs/numeric-sequence.
-
 Example
 =======
 
